@@ -131,6 +131,7 @@ After the modification of the code , so as to use the direct connection to your 
 ```
 git clone https://github.com/nikoshet/IoT-RPi-senseHAT-with-Androidmonitoring/DesktopApp.git 
 ```
+* Open the project on Visual Studio
 **Connection with Azure IoT Hub and IBM Watson IoTP**
 * On the library “CloudInteractions”, on ReadDeviceToAzureMessages.cs set your IoT Hub info as shown below: 
 ```
